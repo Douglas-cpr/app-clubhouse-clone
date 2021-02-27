@@ -9,5 +9,7 @@
 - HTML
 - TailwindCSS
 
+Aplicação com foco em mobile
+
 ## Author
 **Douglas Vinicius**
